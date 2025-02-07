@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-    Hi there<img src='./wave.gif' height='26' alt='there'>, I'm Cedric Ndong
+    Hi there<img src='./wave.gif' height='26' alt='there'>, I'm Paul Tchouankam
 </h1>
 
 <p align='center' style='margin: 16px 4px 8px;'>
