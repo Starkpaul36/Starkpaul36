@@ -36,6 +36,7 @@
 <code><img height="50" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg"></code>
 <code><img height="50" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<img height="50" src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" width="120"/>
 </div>
 
 </td><td valign="top" width="33%">
