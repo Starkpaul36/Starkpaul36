@@ -98,7 +98,7 @@
 <a href="https://www.linkedin.com/in/paul-tchouankam-1b956a1bb?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a> 
-<a href="https://github.com/CedricNdong" target="_blank">
+<a href="https://github.com/Starkpaul36" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://twitter.com/NdongGomo" target="_blank">
@@ -111,18 +111,18 @@
 ## Github Stats 
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=cedricndong&show_icons=true&include_all_commits=true&theme=synthwave&hide_border=true" align="center" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=starkpaul36&show_icons=true&include_all_commits=true&theme=synthwave&hide_border=true" align="center" style="width: 100%" />
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cedricndong&layout=compact&theme=buefy&hide_border=true" align="center" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=starkpaul36&layout=compact&theme=buefy&hide_border=true" align="center" style="width: 100%" />
 
 </td></tr></table>  
 
 <br/>  
 
 <a>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cedricndong&theme=synthwave" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=starkpaul36&theme=synthwave" />
 </a>
 
 </p >
@@ -132,7 +132,7 @@
 
 ## Trophies
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=CedricNdong" alt="cedricndong" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Starkpaul36" alt="starkpaul36" /></a> </p>
 
   
 
