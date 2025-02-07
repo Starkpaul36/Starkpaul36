@@ -139,7 +139,7 @@
 <br/> 
 
 ## Visitor Counter  
-![Profile views counter](https://komarev.com/ghpvc/?username=CedricNdong&&style=flat-square)  
+![Profile views counter](https://komarev.com/ghpvc/?username=Starkpaul36&&style=flat-square)  
   
 
   
