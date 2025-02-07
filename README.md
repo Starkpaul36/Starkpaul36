@@ -90,7 +90,6 @@
 <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png"></code>
 <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg"></code>
-<code><img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" /></code>
 <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="100"/>
 <img height="50" src="https://img.shields.io/badge/Codemagic-Blue?style=for-the-badge&logo=codemagic&logoColor=white" width="150"/>
 
