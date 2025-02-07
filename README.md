@@ -91,8 +91,8 @@
 <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg"></code>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 <code><img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" /></code>
-[<img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="100"/>](https://www.figma.com/)
-[<img src="https://codemagic.io/assets/images/codemagic_logo.svg" width="150"/>](https://codemagic.io/)
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="100"/>
+<img src="https://codemagic.io/assets/images/codemagic_logo.svg" width="150"/>
 
 </div>
 
